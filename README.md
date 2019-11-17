@@ -1,5 +1,7 @@
 # JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator - TI-89 Skin
-Simply a TI-89 responsive skin for JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator. All credit goes for this project goes to: 
+TI-89 responsive skin for JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator.
+
+All credit goes for this project goes to: 
 
 Copyright (C) 2011-2013 Patrick "PatrickD" Davidson (v1-v11) - http://www.ocf.berkeley.edu/~pad/emu/  
 Copyright (C) 2012-2014 Lionel Debroux (v11-v12) - https://tiplanet.org/emu68k_fork/  
