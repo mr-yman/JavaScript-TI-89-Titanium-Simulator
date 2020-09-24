@@ -1,5 +1,5 @@
-# JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator - TI-89 Skin
-TI-89 responsive skin for JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator.
+# JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator - TI-89T Skin
+TI-89 Titanium responsive skin for JavaScript TI-68k (89, 92+, V200, 89T) graphing calculator emulator.
 
 All credit goes for this project goes to: 
 
